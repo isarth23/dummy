@@ -1,0 +1,5 @@
+setup.py
+dummy_sarthak.egg-info/PKG-INFO
+dummy_sarthak.egg-info/SOURCES.txt
+dummy_sarthak.egg-info/dependency_links.txt
+dummy_sarthak.egg-info/top_level.txt
